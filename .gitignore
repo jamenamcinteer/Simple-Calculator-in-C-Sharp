@@ -1,3 +1,4 @@
-SimpleCalculator/bin
-SimpleCalculator/obj
+bin
+obj
+TestResults
 .vs

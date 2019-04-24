@@ -1,7 +1,0 @@
-C:\Users\nmcinteer\Visual Studio Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.dll
-C:\Users\nmcinteer\Visual Studio Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.pdb
-C:\Users\nmcinteer\Visual Studio Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.exe
-C:\Users\nmcinteer\Visual Studio Projects\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.pdb
-C:\Users\nmcinteer\Visual Studio Projects\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csprojResolveAssemblyReference.cache
-C:\Users\nmcinteer\Visual Studio Projects\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.dll
-C:\Users\nmcinteer\Visual Studio Projects\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.pdb
